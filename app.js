@@ -5,75 +5,75 @@ const products = [
   {
     id: 1,
     title: "Air Force",
-    price: 8999,
+    price: 119,
     colors: [
       {
         code: "black",
-        img: "file:///C:/Users/Admin/Desktop/nike/air.png",
+        img: "./img/air.png",
       },
       {
         code: "darkblue",
-        img: "file:///C:/Users/Admin/Desktop/nike/air2.png",
+        img: "./img/air2.png",
       },
     ],
   },
   {
     id: 2,
     title: "Air Jordan",
-    price:  10999,
+    price: 149,
     colors: [
       {
         code: "lightgray",
-        img: "file:///C:/Users/Admin/Desktop/nike/jordan.png",
+        img: "./img/jordan.png",
       },
       {
         code: "green",
-        img: "file:///C:/Users/Admin/Desktop/nike/jordan2.png",
+        img: "./img/jordan2.png",
       },
     ],
   },
   {
     id: 3,
     title: "Blazer",
-    price:  7689,
+    price: 109,
     colors: [
       {
         code: "lightgray",
-        img: "file:///C:/Users/Admin/Desktop/nike/blazer.png",
+        img: "./img/blazer.png",
       },
       {
         code: "green",
-        img: "file:///C:/Users/Admin/Desktop/nike/blazer2.png",
+        img: "./img/blazer2.png",
       },
     ],
   },
   {
     id: 4,
     title: "Crater",
-    price: 15999,
+    price: 129,
     colors: [
       {
         code: "black",
-        img: "file:///C:/Users/Admin/Desktop/nike/blazer.png",
+        img: "./img/crater.png",
       },
       {
         code: "lightgray",
-        img: "file:///C:/Users/Admin/Desktop/nike/crater2.png",
+        img: "./img/crater2.png",
       },
     ],
   },
   {
     id: 5,
     title: "Hippie",
-    price: 8999,
+    price: 99,
     colors: [
       {
         code: "gray",
-        img: "file:///C:/Users/Admin/Desktop/nike/hippie.png",
+        img: "./img/hippie.png",
       },
       {
         code: "black",
-        img: "file:///C:/Users/Admin/Desktop/nike/hippie2.png",
+        img: "./img/hippie2.png",
       },
     ],
   },
